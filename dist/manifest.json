@@ -1,0 +1,7 @@
+{
+  "./main.js": "auto/static/js/bundle.js",
+  ".//static/media/logo512.png": "auto//static/media/logo512.png",
+  ".//static/media/logo192.png": "auto//static/media/logo192.png",
+  ".//static/media/favicon.ico": "auto//static/media/favicon.ico",
+  "./index.html": "auto/index.html"
+}
